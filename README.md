@@ -1,7 +1,9 @@
 # 8fish
-detect and recognize 8 kinds fish using yolov3, UI is made by QT.
-使用yolov3检测和识别8种鱼，用QT编写
+detect and recognize 8 kinds fish using yolov3, code use python, UI is made by QT.
+使用yolov3检测和识别8种鱼，语言为python, UI用的QT。
 
+
+配置:
 config中的config.xml为配置文件。
 rtsp项填入rtsp视频地址。
 scale项为计算鱼获长度的配置项。
