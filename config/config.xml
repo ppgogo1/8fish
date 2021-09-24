@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><system>
+	<ID name="钓台ID" value="4"/>
+	<rtsp name="rtsp url" value="rtsp://192.168.18.201:8557/h264"/>	
+	<UUID name="UUID" value="430cd993ebe0d354f37d57b5af7d3724"/>
+	<register name="注册码" value="1eec8490f174e898f96540715ad6cb09"/>
+	<scale name="1米=像素" value="1000"/>
+	<model name="模型" value="../models/yolov3-voc.backup"/>
+	<cfg name="模型cfg" value="../models/yolov3-voc-test.cfg"/>
+</system>
